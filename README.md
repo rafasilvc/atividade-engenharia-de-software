@@ -14,6 +14,8 @@
     <script src="script.js"></script>
 </body>
 </html>
+
+#css
 .card {
     background: white;
     border-radius: 12px;
@@ -32,6 +34,8 @@
     background-color: #f1f5f9;
 }
 .hidden { display: none; }
+
+#javascript
 const marcos = [
     {
         ano: "1970s",
